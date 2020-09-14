@@ -10,7 +10,7 @@ Thesis summary:
 
 Recognizing Time-Frequency Clustering in Ultrasound Emission Spectra
 
-	Increased water potential in plants conducting tissue, xylem, produces gas bubbles, which when breaking produce mechanical waves of ultrasound frequencies, 
+  Increased water potential in plants conducting tissue, xylem, produces gas bubbles, which when breaking produce mechanical waves of ultrasound frequencies, 
   ultrasound acoustic emissions (UAE). Time-frequency analysis of UAE in real time on an embedded system mounted on a plant and water potential evaluation can 
   greatly improve watering systems in high precision farming. This thesis deals with the development and the implementation on an embedded system of an algorithm 
   set for real time analysis of UAE and transferring compressed data. The algorithm set is made up of OPTICS algorithm, gradient clustering, window merging and 
