@@ -2,8 +2,8 @@
 Master's thesis project
 
 Files included in this repository are a part of my thesis project for my master's degree at Faculty of Electrical Engineering and Computing at University of Zagreb. 
-I didn't upload the full project but only some of the files to showcase my work. Files included in the C_files folder are a part of a project run on SMT32 NUCLEO-144 development 
-board and the files included in the Matlab_files folder are some of the MATLAB files used for testing and evaluation of the embedded implementation.
+I didn't upload the full project but only some of the files to showcase my work. Files included in the C_files folder are a part of a Keil uVision project run on SMT32 
+NUCLEO-144 development board and the files included in the Matlab_files folder are some of the MATLAB files used for testing and evaluation of the embedded implementation.
 
 
 Thesis summary: 
