@@ -1,4 +1,4 @@
-# Thesis_project
+# thesis-project
 Master's thesis project
 
 Files included in this repository are a part of my thesis project for my master's degree at Faculty of Electrical Engineering and Computing at University of Zagreb. 
